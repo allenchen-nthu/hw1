@@ -44,7 +44,7 @@ else:
     result.append(['C0A880', None])
 
 # Analyze data depend on your group and store it to target_data like:
-# Retrive all data points which station id is "C0A880" as a list.
+# Retrive all data points which station id is "C0F9A0" as a list.
 target_data = list(filter(lambda item: item['station_id'] == 'C0F9A0', data))
 #initialize status of full available values
 status = 1
@@ -67,7 +67,7 @@ else:
     result.append(['C0F9A0', None])
 
 # Analyze data depend on your group and store it to target_data like:
-# Retrive all data points which station id is "C0A880" as a list.
+# Retrive all data points which station id is "C0R190" as a list.
 target_data = list(filter(lambda item: item['station_id'] == 'C0R190', data))
 #initialize status of full available values
 status = 1
@@ -90,7 +90,7 @@ else:
     result.append(['C0R190', None])
 
 # Analyze data depend on your group and store it to target_data like:
-# Retrive all data points which station id is "C0A880" as a list.
+# Retrive all data points which station id is "C0G640" as a list.
 target_data = list(filter(lambda item: item['station_id'] == 'C0G640', data))
 #initialize status of full available values
 status = 1
@@ -113,7 +113,7 @@ else:
     result.append(['C0G640', None])
 
 # Analyze data depend on your group and store it to target_data like:
-# Retrive all data points which station id is "C0A880" as a list.
+# Retrive all data points which station id is "C0X260" as a list.
 target_data = list(filter(lambda item: item['station_id'] == 'C0X260', data))
 #initialize status of full available values
 status = 1
