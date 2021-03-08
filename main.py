@@ -8,7 +8,7 @@ import csv
 # Part. 2
 #=======================================
 # Read cwb weather data
-cwb_filename = 'sample_input.csv'
+cwb_filename = '108061105.csv'
 data = []
 header = []
 with open(cwb_filename) as csvfile:
